@@ -1,11 +1,6 @@
 # This Archer Firmware Really Has Daddy Issues
 
-Because sometimes a meme explains everything.
 
-<img width="480" alt="pic01" src="https://github.com/user-attachments/assets/c252a196-aabb-4f7c-938b-8b9ef7eb1905" />
-
-
-  <br/>
   <br/>
 
 ## Preamble
